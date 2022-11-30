@@ -1,0 +1,8 @@
+#This code is for skipdedishes
+echo "when you arrive at the restursnt"
+echo "what is your name
+read $name
+echo "pick delivery up at the resturant"
+echo "drive to deliver order
+read $city
+
